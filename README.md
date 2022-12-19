@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 Adding ths line will do the work
 
 
-We also need to download drivers of windows to connect the ESP board to the pc
+We also need to download drivers for windows to connect the ESP board to the pc;
 Diver name: CP210x_Windows_Drivers
 
 
